@@ -1,1 +1,1 @@
-worker: source setup.sh && bash start.sh
+worker: source profile.sh && python3 -m bot
