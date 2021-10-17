@@ -1,1 +1,1 @@
-worker: source profile.sh && python3 -m bot
+worker: source heroku.sh && python3 -m bot
